@@ -1,0 +1,1 @@
+Si es necesario la carpeta "train" se tendra que volver a subir. Para no sobrecargar el repositorio con las 25.000 fotos, se ha optado por ponerla en el gitignore.
